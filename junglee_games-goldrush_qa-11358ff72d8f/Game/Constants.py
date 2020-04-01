@@ -1,0 +1,7 @@
+GAME_MANAGER = "GameManager"
+KLONDIKE_GAME_MANAGER = "KlondikeGame"
+TABLEAU = "Tableau";
+FOUNDATION_DIAMONDS = "Diamonds";
+FOUNDATION_HEARTS = "Hearts";
+FOUNDATION_CLUBS = "Clubs";
+FOUNDATION_SPADES = "Spades";
